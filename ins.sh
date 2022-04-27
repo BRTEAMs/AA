@@ -44,7 +44,7 @@ sudo luarocks install luasec
 sudo luarocks install luasocket
 cd ../..
 rm -rf tmp
-unzip tdbot.zip
+unzip luatele.zip
 sudo lua5.3 setup.lua
 ;;
 2)
